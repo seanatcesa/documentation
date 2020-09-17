@@ -45,7 +45,7 @@ When the Graylog enterprise plugins and Graylog enterprise integrations plugin i
         
         * :ref:`O365 Events Input <o365_input>` - get O365 events into Graylog 
 
-
+Graylog Illuminate also can assist with visulaizing your data in Graylog.  Log data collected is formatted into a common schema, and pre-built content around dashboards, alerts are then available to use, and quickly letting you find your data in dashboards.
 
 
 
