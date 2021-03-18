@@ -36,7 +36,7 @@ Graylog needs to know the CA that is used to verify the certificates. The prime 
 Custom JVM Keystore for Graylog
 -------------------------------
 
-Modify the :ref:`JVM Setting <default_file_location>` to include ``-Djavax.net.ssl.trustStore=/etc/graylog/server/cacerts.jks`` in the ``GRAYLOG_JAVA_OPTS``.
+Modify the :ref:`JVM Setting <default_file_location>` to include ``-Djavax.net.ssl.trustStore=/etc/graylog/server/cacerts.jks`` in the ``GRAYLOG_SERVER_JAVA_OPTS``.
 
 Create certificates
 ===================
